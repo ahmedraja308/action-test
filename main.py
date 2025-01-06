@@ -21,7 +21,7 @@ try:
 except KeyError:
     SOME_SECRET = "Token not available!"
     #logger.info("Token not available!")
-    #raise
+    #rais
 
 
 if __name__ == "__main__":
